@@ -6,8 +6,8 @@ This repository contains an analysis of medical premium data, including Explorat
 
 The dataset contains the following features:
 
--Age
--Diabetes (presence of diabetes)
+- Age
+- Diabetes (presence of diabetes)
 -BloodPressureProblems (presence of blood pressure problems)
 -AnyTransplants (presence of any transplants)
 -AnyChronicDiseases (presence of any chronic diseases)
