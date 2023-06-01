@@ -2,6 +2,9 @@
 
 This repository contains an analysis of medical premium data, including Exploratory Data Analysis (EDA) and the implementation of a linear regression model. The goal of this project is to understand the factors affecting medical premium prices and to build a predictive model for premium prices based on the available features.
 
+Here is a link to a Tableau Public Dashboard based on the same data
+https://public.tableau.com/app/profile/shaheer.ahmad/viz/MedicalPremiumTestAnalysis/Dashboard1?publish=yes
+
 ## Data
 
 The dataset contains the following features:
